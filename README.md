@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/190037196?v=4" width="130" style="border-radius:50%"/>
 
-# Сергей Васильевич Сушков
+# Сергей Валентинович Сушков
 ### Хирург · Онкохирург · Доктор медицинских наук · Профессор
 
 [![Site](https://img.shields.io/badge/🌐_ssvnauka.com-0077B6?style=flat-square)](http://ssvnauka.com)
