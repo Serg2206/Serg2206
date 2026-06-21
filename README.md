@@ -1,3 +1,8 @@
+## Archived
+Этот репозиторий архивирован как дублирующий профиль.
+
+---
+
 <div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/190037196?v=4" width="130" style="border-radius:50%"/>
