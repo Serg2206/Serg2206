@@ -39,8 +39,10 @@
 
 ### 📊 GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Serg2206&show_icons=true&hide_title=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serg2206&layout=compact)
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serg2206&theme=default)
+
+![Streak](https://streak-stats.demolab.com?user=Serg2206)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Serg2206&theme=default)
 
 ---
 
