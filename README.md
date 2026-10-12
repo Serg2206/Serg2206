@@ -1,5 +1,9 @@
-## Sergiy V. Sushkov, MD, PhD, Professor
+# Sergiy V. Sushkov, MD, PhD, Professor
 **Surgeon · Oncologic Surgeon · Medical Educator & Researcher** — Kharkiv, Ukraine 🇺🇦
+
+[![Media](https://img.shields.io/badge/ssvnauka.com-scientific%20media-teal)](https://ssvnauka.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@SSVproff-26A5E4?logo=telegram&logoColor=white)](https://t.me/SSVproff)
+[![X](https://img.shields.io/badge/X-@ssvnauka-000000?logo=x&logoColor=white)](https://x.com/ssvnauka)
 
 ---
 
@@ -29,7 +33,8 @@
 | [gastric-surgery-course](https://github.com/Serg2206/gastric-surgery-course) | Interactive gastric cancer surgery training with 3D learning modules (Next.js 14) |
 | [cdss-ostry-zhivot-2026](https://github.com/Serg2206/cdss-ostry-zhivot-2026) | Clinical decision support for acute abdomen — molecular navigation in emergency surgery (React · TypeScript) |
 | [ssvnauka.com](https://github.com/Serg2206/ssvnauka.com) | Scientific media platform on surgery & oncology (Next.js + Strapi) |
-| [medical-research-repoNS](https://github.com/Serg2206/medical-research-repoNS) | Medical research neural network tooling (Python · TensorFlow · scikit-learn) |
+| [medical-research-repoNS](https://github.com/Serg2206/medical-research-repoNS) | Medical research neural network tooling (Python · PyTorch · TensorFlow · Transformers) |
+| [Serg2206.github.io](https://github.com/Serg2206/Serg2206.github.io) | Open scientific platform — literature reviews & analysis |
 
 ---
 
@@ -44,15 +49,8 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![FHIR](https://img.shields.io/badge/HL7_FHIR-R4-green)
-
----
-
-### 📊 GitHub Stats
-
-![Serg2206's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serg2206&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serg2206&layout=compact&hide_border=true)
 
 ---
 
